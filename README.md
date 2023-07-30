@@ -1,6 +1,7 @@
 # MNIST LeNet-like Convolutional Neural Network
 
 This repository contains an implementation of a LeNet-like Convolutional Neural Network (CNN) for the MNIST dataset classification task using Keras and TensorFlow.
+![image](https://github.com/FarzadMalik/LeNet_mnist_KERAS/assets/107833662/7090a80a-b920-484c-9a0d-64bf1c2873aa)
 
 ## Dependencies
 
